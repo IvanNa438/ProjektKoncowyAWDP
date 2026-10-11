@@ -1,0 +1,21 @@
+<h1 align="center">Wnioski</h1>
+
+Przeprowadzaona analiza zbioru ,,California Housing Prices" pozwoliła scharakteryzować wartości nieruchomości w Kaliforni oraz zbadać ich zależność od wybranych cech obszarów mieszkaniowych.
+
+## Odpowiedzi na pytania
+
+- Rozkład wartości nieruchomości w analizowanym zbiorze: najwięcej obserwacji skupia się w przedziale około 100-200 tys. USD, natomiast większość mieści się w przedziale 70-300 tys. USD. Powyżej tej wartości liczba nieruchomości o danej wartości maleje.
+- Mediana dochodów mieszkańców a mediana wartości nieruchomości: ogólny trend wykazuje na dodatnią zależnośc między medianą dochodów a medianą wartości nieruchomości. Są od tego jednak liczne wyjątki.
+- Położenie względem oceanu a różnica wartości nieruchomości: położenie blisko oceanu ma zdecydowanie dodatni wpływ na wartość nieruchomości, tylko pojedyńcze przypadki w głebi lądu potrafią dorównać wartością tym nadmorskim.
+- Udział bloków według wieku budynku: największy udział bloków widać od 14 do 37 lat wieku budynków, w ostatnich latach można zauważyć trend spadkowy w ich udziale wśród nowych budowli.
+- Położenie geograficzne a mediana wartości nieruchomości: wartość nieruchomości rozkłada się w określonych skupiskach,, które łączą się z wcześniejszą statystyką dotyczącą bliskości oceanu.
+
+## Ograniczenia i dalsze możliwości analizy
+
+Analizowany zbiór pochodzi z 1990 roku, przez co nie przedstawia on współczesnego rynku nieruchomości. Dodatkowo widoczne jest nagromadzenie danych przy górnej granicy wartości domów, co utrudnia analizę najdroższych nieruchomości.
+
+W dalszej analizie warto rozwinąć to nagromadzenie danych w celu dokładniejszej jego oceny. Można by również głębiej przebadać korelację, jak i zbudować model, przewidujący medianę wartości nieruchomości.
+
+## Podsumowanie
+
+Analiza wskazuje że miadiana dochodów oraz położenie geograficzne są związane z wartością nieruchomości w badanym zbiorze. Wyniki należy jednak interpretować, pamiętając o ograniczeniach, które napotkano.
