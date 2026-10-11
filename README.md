@@ -24,4 +24,5 @@ Zbiór opiera się na spisie ludności Kalifornii, który miał miejsce 1990 rok
 -  Jak rozkładają się wartości nieruchomości w analizowanym zbiorze?
 -  Czy mediana dochodów mieszkańców wiąże się z medianą wartości nieruchomości?
 -  Czy położenie względem oceanu wiąże się z różnicami w wartości nieruchomości?
--  Jak rozmieszczenie geograficzne i wiek budynków przedstawiają się w analizowanym zbiorze?
+-  Jak zmieniał się udział bloków w ogólnej liczbie budynków?
+-  Jak rozmieszczenie geograficzne wpływa na wartość budowli?
